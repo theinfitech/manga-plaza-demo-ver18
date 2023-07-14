@@ -270,7 +270,8 @@ body {
   .content-absolute {
     max-width: 990px;
     margin: 0 auto;
-    margin-top: -25px;
+    margin-top: -26px;
+    margin-bottom: 3px;
   }
 
   .text-content-cta {
@@ -376,10 +377,10 @@ body {
 @media only screen and (max-width: 989px) {
   .content-absolute {
     width: 100%;
-    padding: 0 !important;
-    margin-top: -11px;
+    margin-top: -10px;
     position: absolute !important;
   }
+
   .layout-cta{
     margin-top: 13px
   }
