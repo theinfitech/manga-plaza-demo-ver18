@@ -22,6 +22,11 @@ body {
   padding: 10px 0 12px 0;
 }
 
+.image-cover {
+  width: 80%;
+  margin: auto;
+}
+
 .box-razzmatazz {
   margin-top: -15px;
 }
